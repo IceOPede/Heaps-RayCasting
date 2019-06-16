@@ -1,0 +1,11 @@
+-lib heaps
+-lib hldx
+
+-D windowSize=1280x720
+
+-cp src
+
+-main Main
+
+-hl out/game.hl 
+# -hl out/game.c 

@@ -1,0 +1,9 @@
+-lib heaps
+
+-D windowSize=1280x720
+
+-cp src
+
+-main Main
+
+-js out/game.js
